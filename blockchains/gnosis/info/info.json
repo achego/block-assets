@@ -1,0 +1,9 @@
+{
+    "name": "Gnosis Chain",
+    "symbol": "xDAI",
+    "decimals": 18,
+    "type": "coin",
+    "id": "gnosis",
+    "status": "active",
+    "temp_image": true
+}

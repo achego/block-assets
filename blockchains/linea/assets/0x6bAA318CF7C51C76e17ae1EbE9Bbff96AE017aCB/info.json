@@ -1,0 +1,9 @@
+{
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "type": "LINEA",
+    "id": "0x6bAA318CF7C51C76e17ae1EbE9Bbff96AE017aCB",
+    "status": "active",
+    "temp_image": true
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Zora",
+    "symbol": "ETH",
+    "decimals": 18,
+    "type": "coin",
+    "id": "zora",
+    "status": "active",
+    "temp_image": true
+}

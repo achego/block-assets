@@ -1,0 +1,9 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "type": "CELO",
+    "id": "0x122013fd7dF1C8F20B5D76d4F298815FF8d94EB4",
+    "status": "active",
+    "temp_image": true
+}

@@ -1,0 +1,9 @@
+{
+    "name": "DeversiFi Token",
+    "symbol": "DVF",
+    "decimals": 18,
+    "type": "LINEA",
+    "id": "0x1f031f8c523b339c7a831355879e3568fa3eb263",
+    "status": "active",
+    "temp_image": true
+}

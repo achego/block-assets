@@ -27,5 +27,7 @@
             "name": "whitepaper",
             "url": "https://github.com/maticnetwork/whitepaper"
         }
-    ]
+    ],
+    "id": "polygon",
+    "temp_image": true
 }

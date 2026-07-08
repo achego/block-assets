@@ -1,0 +1,9 @@
+{
+    "name": "Wrapped Dai",
+    "symbol": "wDAI",
+    "decimals": 18,
+    "type": "LINEA",
+    "id": "0x023617bAbEd6CeF5Da825BEa8363A5a9862E120F",
+    "status": "active",
+    "temp_image": true
+}

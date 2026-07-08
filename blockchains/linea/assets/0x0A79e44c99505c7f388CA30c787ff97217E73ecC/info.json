@@ -1,0 +1,9 @@
+{
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "type": "LINEA",
+    "id": "0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
+    "status": "active",
+    "temp_image": true
+}

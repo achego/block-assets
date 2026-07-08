@@ -1,0 +1,9 @@
+{
+    "name": "Aave Linea USDT",
+    "symbol": "aLinUSDT",
+    "decimals": 6,
+    "type": "LINEA",
+    "id": "0x88231dfEC71D4FF5c1e466D08C321944A7adC673",
+    "status": "active",
+    "temp_image": true
+}

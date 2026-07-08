@@ -1,0 +1,9 @@
+{
+    "name": "Bridged DAI (rDAI)",
+    "symbol": "rDAI",
+    "decimals": 18,
+    "type": "",
+    "id": "0x6b1a73d547f4009a26b8485b63d7015d248ad406",
+    "status": "active",
+    "temp_image": true
+}

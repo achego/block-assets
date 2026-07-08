@@ -23,5 +23,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/linea/"
         }
-    ]
+    ],
+    "id": "linea",
+    "temp_image": true
 }

@@ -1,0 +1,9 @@
+{
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "type": "LINEA",
+    "id": "0x63bA74893621d3d12F13CEc1e86517eC3d329837",
+    "status": "active",
+    "temp_image": true
+}

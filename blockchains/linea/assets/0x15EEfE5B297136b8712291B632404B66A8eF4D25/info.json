@@ -1,0 +1,9 @@
+{
+    "name": "Universal ETH",
+    "symbol": "uniETH",
+    "decimals": 18,
+    "type": "LINEA",
+    "id": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+    "status": "active",
+    "temp_image": true
+}
