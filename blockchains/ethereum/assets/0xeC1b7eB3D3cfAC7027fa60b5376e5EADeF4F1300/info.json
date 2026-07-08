@@ -1,0 +1,9 @@
+{
+    "name": "HZM Coin",
+    "symbol": "HZM",
+    "decimals": 8,
+    "type": "ERC20",
+    "id": "0xeC1b7eB3D3cfAC7027fa60b5376e5EADeF4F1300",
+    "status": "active",
+    "temp_image": true
+}

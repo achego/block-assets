@@ -1,0 +1,9 @@
+{
+    "name": "aSOL Aggregate Solana Stake Pool",
+    "symbol": "aSOL",
+    "decimals": 9,
+    "type": "SPL",
+    "id": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+    "status": "active",
+    "temp_image": true
+}

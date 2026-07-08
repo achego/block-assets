@@ -1,0 +1,9 @@
+{
+    "name": "DigiFinex Token",
+    "symbol": "DFT",
+    "decimals": 18,
+    "type": "ERC20",
+    "id": "0x4ac363455468C22F7F656E994B67f2275Fb3badd",
+    "status": "active",
+    "temp_image": true
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "type": "AVALANCHE",
+    "id": "0xcf799767d366d789e8B446981C2D578E241fa25c",
+    "status": "active",
+    "temp_image": true
+}

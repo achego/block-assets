@@ -1,0 +1,9 @@
+{
+    "name": "prtSOL (Parrot Staked SOL)",
+    "symbol": "prtSOL",
+    "decimals": 9,
+    "type": "SPL",
+    "id": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+    "status": "active",
+    "temp_image": true
+}

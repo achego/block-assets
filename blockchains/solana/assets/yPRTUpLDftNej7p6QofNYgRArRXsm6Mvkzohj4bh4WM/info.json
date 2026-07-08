@@ -1,0 +1,9 @@
+{
+    "name": "yPRT (Parrot Yield Token)",
+    "symbol": "yPRT",
+    "decimals": 6,
+    "type": "SPL",
+    "id": "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
+    "status": "active",
+    "temp_image": true
+}

@@ -4,6 +4,5 @@
     "decimals": 18,
     "type": "coin",
     "id": "unichain",
-    "status": "active",
-    "temp_image": true
+    "status": "active"
 }

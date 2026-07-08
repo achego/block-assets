@@ -1,0 +1,9 @@
+{
+    "name": "Tether USD (Portal from BSC)",
+    "symbol": "USDTbs",
+    "decimals": 18,
+    "type": "AVALANCHE",
+    "id": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B",
+    "status": "active",
+    "temp_image": true
+}

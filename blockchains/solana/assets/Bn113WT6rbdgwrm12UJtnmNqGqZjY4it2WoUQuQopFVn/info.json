@@ -1,0 +1,9 @@
+{
+    "name": "Wrapped USDT (Allbridge from Ethereum)",
+    "symbol": "aeUSDT",
+    "decimals": 9,
+    "type": "SPL",
+    "id": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+    "status": "active",
+    "temp_image": true
+}

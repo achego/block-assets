@@ -1,0 +1,9 @@
+{
+    "name": "Nomad WBTC",
+    "symbol": "WBTC.mad",
+    "decimals": 8,
+    "type": "MOONBEAM",
+    "id": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
+    "status": "active",
+    "temp_image": true
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Multichain AVAX",
+    "symbol": "AVAX.multi",
+    "decimals": 18,
+    "type": "MOONBEAM",
+    "id": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+    "status": "active",
+    "temp_image": true
+}

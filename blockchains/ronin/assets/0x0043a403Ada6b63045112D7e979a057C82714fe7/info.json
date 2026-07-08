@@ -1,0 +1,9 @@
+{
+    "name": "dTRINITY USD",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "type": "RONIN",
+    "id": "0x0043a403ada6b63045112d7e979a057c82714fe7",
+    "status": "active",
+    "temp_image": true
+}

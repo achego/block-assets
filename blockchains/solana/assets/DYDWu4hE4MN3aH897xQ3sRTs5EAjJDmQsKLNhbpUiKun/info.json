@@ -1,0 +1,9 @@
+{
+    "name": "pBTC (Parrot BTC)",
+    "symbol": "pBTC",
+    "decimals": 8,
+    "type": "SPL",
+    "id": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
+    "status": "active",
+    "temp_image": true
+}

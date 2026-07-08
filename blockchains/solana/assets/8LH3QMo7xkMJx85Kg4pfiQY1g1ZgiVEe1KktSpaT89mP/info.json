@@ -1,0 +1,9 @@
+{
+    "name": "Arbitrum (Wormhole)",
+    "symbol": "ARB",
+    "decimals": 8,
+    "type": "SPL",
+    "id": "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP",
+    "status": "active",
+    "temp_image": true
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Binance USD (Portal from BSC)",
+    "symbol": "BUSDbs",
+    "decimals": 18,
+    "type": "AVALANCHE",
+    "id": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+    "status": "active",
+    "temp_image": true
+}
